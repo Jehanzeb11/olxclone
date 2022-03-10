@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    background-color: whitesmoke;
+}
+
+header img{
+    cursor: pointer;
+}
+
+.inerput{
+    width: 70%;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 3px;
+}
+
+.inp{
+    border: 1px solid black;
+}
+.fa-solid{
+    color: white;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    cursor: pointer;
+}
+
+.imag{
+    width: 100%;
+}
+
+
+.container .ancor{
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.container .ancor:hover{
+    text-decoration: none;
+}
+
+.count li{
+    list-style: none;
+    font-size: 1rem;
+}
+
+.part{
+    font-size: 1.2rem;
+}
+.container{
+    width: 100vw;
+}
+
+.list ul li{
+    list-style: none;
+}
+
+footer{
+    background-color: whitesmoke;
+}
+
+footer h5{
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+footer ul li{
+    font-size: 0.8rem;
+    cursor: pointer;
+}
+
+.end{
+    background-color: #002f34;
+    color: white;
+    font-size: 0.8rem;
+}
+
+.fa-brands{
+    cursor: pointer;
+    font-size: 1rem;
+}
+.image{
+    width: 80%;
+}
+
+.imagen{
+    width: 80%;
+}
+
+.gimg{
+    width: 150px;
+}
+
+.div{
+    background-color: whitesmoke;
+}
+
+.lphone{
+    width: 250px;
+}
+.butan{
+    border:2px solid black; 
+}
+
+.butan:hover{
+    border:4px solid black;
+}
